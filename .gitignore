@@ -1,0 +1,7 @@
+# Node modules
+Backend/node_modules/
+Frontend-Admin/node_modules/
+Frontend-Patient/node_modules/
+
+# Environment files
+*.env
