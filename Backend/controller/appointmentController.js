@@ -13,6 +13,8 @@ export const postAppointment = catchAsyncErrors(async (req, res, next) => {
         email,
         phone,
         aadhar,
+
+        
         dob,
         gender,
         appointment_date,
